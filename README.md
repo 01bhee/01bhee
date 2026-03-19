@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omeyimi!</h1>
-<h3 align="center">🤖 Robotics & Embodied AI Engineer </n> I specialize in Embodied Intelligence, bridging the gap between high-level AI and physical hardware. While I am skilled in microprocessor architecture and digital systems, my true passion lies in developing the "nervous system" of autonomous agents. Currently, I am researching how legged systems can master complex locomotion and environmental interaction. I aim to create robots that don't just move, but truly perceive and navigate the physical world.</h3>
+<h3 align="center">🤖 Robotics & Embodied AI Engineer
+  I specialize in Embodied Intelligence, bridging the gap between high-level AI and physical hardware. While I am skilled in microprocessor architecture and digital systems, my true passion lies in developing the "nervous system" of autonomous agents. Currently, I am researching how legged systems can master complex locomotion and environmental interaction. I aim to create robots that don't just move, but truly perceive and navigate the physical world.</h3>
 
 - 🔭 I’m currently working on **Adaptive learning control algorithms on quadrupedal locomotion**
 
